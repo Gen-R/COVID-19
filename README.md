@@ -1,9 +1,13 @@
 # Resource lists
 
-## Tools for the access to knowledge for the public
+From Generation Research https://genr.eu/wp/ DM on Twitter https://twitter.com/Gen_R_ simon@genr.eu 
 
-pirate syllabus corona notes - http://syllabus.pirate.care/topic/coronanotes/
+## Public Access to Knowledge
 
-How to fight the coronavirus SARS-CoV-2 and its disease, CoVID-19 https://drive.google.com/file/d/1DqfSnlaW6N3GBc5YKyBOCGPfdqOsqk1G/view
+ - pirate syllabus corona notes - http://syllabus.pirate.care/topic/coronanotes/
 
-## Online tools for conducting research
+ - How to fight the coronavirus SARS-CoV-2 and its disease, CoVID-19 https://drive.google.com/file/d/1DqfSnlaW6N3GBc5YKyBOCGPfdqOsqk1G/view
+
+## Online research: Workshops, conferences, collaborative working
+
+ 
