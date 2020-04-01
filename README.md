@@ -2,6 +2,10 @@
 
 From Generation Research https://genr.eu/wp/ DM on Twitter https://twitter.com/Gen_R_ simon@genr.eu 
 
+Literature collection https://www.zotero.org/groups/1838445/generation_r/collections/MGTE9SI4
+
+Twitter list TBC
+
 ## Public Access to Knowledge
 
  - pirate syllabus corona notes - http://syllabus.pirate.care/topic/coronanotes/
