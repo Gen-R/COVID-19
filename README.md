@@ -1,4 +1,8 @@
-# Resource lists
+# Open Science and Innovation Against COVID-19
+
+## A GenR Theme > May 2020
+
+## Open Science and Innovation
 
 From Generation Research https://genr.eu/wp/ DM on Twitter https://twitter.com/Gen_R_ simon@genr.eu 
 
