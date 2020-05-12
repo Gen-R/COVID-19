@@ -10,6 +10,10 @@ Literature collection https://www.zotero.org/groups/1838445/generation_r/collect
 
 Twitter list TBC
 
+## Innovating Open Science
+
+Data Management Concept Note for General Public https://zenodo.org/record/3819204 https://twitter.com/k_meesters/status/1260138953782497285?s=20
+
 ## Public Access to Knowledge
 
  - pirate syllabus corona notes - http://syllabus.pirate.care/topic/coronanotes/
