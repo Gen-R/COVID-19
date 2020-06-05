@@ -24,7 +24,9 @@ In this theme we will look at examples where innovation has become actionable in
 
  - Data Management Concept Note for General Public - https://zenodo.org/record/3819204 https://twitter.com/k_meesters/status/1260138953782497285?s=20
  - Collabovid - https://www.collabovid.org/ 
- - 
+ - Innovating for a Sustainable Post-Pandemic World - 6-31 July - https://openseventeen.org/summer2020/index.html
+ - Publishing Fest - infrastructures session
+ - Knowledge Graph
 
 
 
