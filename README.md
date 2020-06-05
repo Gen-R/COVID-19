@@ -29,6 +29,7 @@ In this theme we will look at examples where innovation has become actionable in
  - Knowledge Graph
  - openVirus - https://github.com/petermr/openVirus
  - EUvsVirus
+ - elife sprint - https://sprint.elifesciences.org/projects/
 
 
 
