@@ -6,7 +6,9 @@ From Generation Research https://genr.eu/wp/ DM on Twitter https://twitter.com/G
 
 Literature collection https://www.zotero.org/groups/1838445/generation_r/collections/MGTE9SI4
 
-Twitter list TBC
+Twitter list https://twitter.com/i/lists/1268856108271230976
+
+### About
 
 The questions GenR wants to ask in the context of COVID-19 are what challenges are driving innovation in the Open Science community involved in delivering and developing technical systems.
 
