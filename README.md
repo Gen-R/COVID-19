@@ -27,6 +27,8 @@ In this theme we will look at examples where innovation has become actionable in
  - Innovating for a Sustainable Post-Pandemic World - 6-31 July - https://openseventeen.org/summer2020/index.html
  - Publishing Fest - infrastructures session
  - Knowledge Graph
+ - openVirus - https://github.com/petermr/openVirus
+ - EUvsVirus
 
 
 
