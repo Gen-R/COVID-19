@@ -25,12 +25,12 @@ In this theme we will look at examples where innovation has become actionable in
  - Data Management Concept Note for General Public - https://zenodo.org/record/3819204 https://twitter.com/k_meesters/status/1260138953782497285?s=20
  - Collabovid - https://www.collabovid.org/ 
  - Innovating for a Sustainable Post-Pandemic World - 6-31 July - https://openseventeen.org/summer2020/index.html
- - Publishing Fest - infrastructures session
- - Knowledge Graph
+ - Publishing Fest - Open Publishing Festival 2020: Open Infrastructure principles for third party involvement - (one strand of a few)  https://www.youtube.com/watch?v=dFhIS6t9sCU
+ - Knowledge Graph - #EUvsVirus: Covid-19 Bioassays in the Open Research Knowledge Graph - https://blogs.tib.eu/wp/tib/2020/05/08/covid-19-bioassays-in-the-open-research-knowledge-graph/
  - openVirus - https://github.com/petermr/openVirus
- - EUvsVirus
+ - EUvsVirus - https://www.euvsvirus.org/ (look to see if any parts of this relate to Open Science)
  - elife sprint - https://sprint.elifesciences.org/projects/
- - Gaia-x
+ - Gaia-x - EU Cloud coming online in 2021 - https://www.data-infrastructure.eu/GAIAX/Navigation/EN/Home/home.html
 
 
 
