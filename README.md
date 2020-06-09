@@ -33,5 +33,8 @@ In this theme we will look at examples where innovation has become actionable in
  - Gaia-x - EU Cloud coming online in 2021 - https://www.data-infrastructure.eu/GAIAX/Navigation/EN/Home/home.html
 
 
+## Principles for OS Infrastructures
 
+ - Cameron Neylon 2015 - https://cameronneylon.net/blog/principles-for-open-scholarly-infrastructures/
+ - NL guidelines May 2020 - https://www.vsnu.nl/en_GB/news-items/nieuwsbericht/596-consultation-on-guiding-principles-on-management-of-research-information-and-data.html
  
