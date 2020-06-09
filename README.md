@@ -37,4 +37,5 @@ In this theme we will look at examples where innovation has become actionable in
 
  - Cameron Neylon 2015 - https://cameronneylon.net/blog/principles-for-open-scholarly-infrastructures/
  - NL guidelines May 2020 - https://www.vsnu.nl/en_GB/news-items/nieuwsbericht/596-consultation-on-guiding-principles-on-management-of-research-information-and-data.html
+ - SPARC NA - Good Practice Principles for Scholarly Communication Services, 2017? - https://sparcopen.org/our-work/good-practice-principles-for-scholarly-communication-services/
  
