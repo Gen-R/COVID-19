@@ -31,6 +31,10 @@ In this theme we will look at examples where innovation has become actionable in
  - EUvsVirus - https://www.euvsvirus.org/ (look to see if any parts of this relate to Open Science)
  - elife sprint - https://sprint.elifesciences.org/projects/
  - Gaia-x - EU Cloud coming online in 2021 - https://www.data-infrastructure.eu/GAIAX/Navigation/EN/Home/home.html
+ - wikiresearch - https://twitter.com/WikiResearch/status/1272508761614270465?s=20
+ - Building the UC Davis Covid Research Registry - https://vivoconference.org/vivo2020/schedule/#session-35
+ - WebWhatsapp COVID-19 - https://twitter.com/nicebread303/status/1272822988853989378?s=20 + https://twitter.com/nicebread303/status/1272822988853989378?s=20
+ - 
 
 
 ## Principles for OS Infrastructures
