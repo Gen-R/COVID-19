@@ -34,7 +34,7 @@ In this theme we will look at examples where innovation has become actionable in
  - wikiresearch - https://twitter.com/WikiResearch/status/1272508761614270465?s=20
  - Building the UC Davis Covid Research Registry - https://vivoconference.org/vivo2020/schedule/#session-35
  - WebWhatsapp COVID-19 - https://twitter.com/nicebread303/status/1272822988853989378?s=20 + https://twitter.com/nicebread303/status/1272822988853989378?s=20
- - 
+ - EU app contact tracing interop - https://twitter.com/DSMeu/status/1272839783245656064?s=20
 
 
 ## Principles for OS Infrastructures
