@@ -35,6 +35,7 @@ In this theme we will look at examples where innovation has become actionable in
  - Building the UC Davis Covid Research Registry - https://vivoconference.org/vivo2020/schedule/#session-35
  - WebWhatsapp COVID-19 - https://twitter.com/nicebread303/status/1272822988853989378?s=20 + https://twitter.com/nicebread303/status/1272822988853989378?s=20
  - EU app contact tracing interop - https://twitter.com/DSMeu/status/1272839783245656064?s=20
+ - French COVID TT app - http://www.rfi.fr/en/science-and-technology/20200527-france-coronavirus-stop-covid-mobile-phone-app-technology-controversy-law-vote-privacy-concerns-surveillance-human-rights?fbclid=IwAR0Du-qlhSOMOmYKP42OaFkVn0pB8QKR_GoMnDqeC0wNLE_mM718gz78RaU
 
 
 ## Principles for OS Infrastructures
