@@ -36,6 +36,9 @@ In this theme we will look at examples where innovation has become actionable in
  - WebWhatsapp COVID-19 - https://twitter.com/nicebread303/status/1272822988853989378?s=20 + https://twitter.com/nicebread303/status/1272822988853989378?s=20
  - EU app contact tracing interop - https://twitter.com/DSMeu/status/1272839783245656064?s=20
  - French COVID TT app - http://www.rfi.fr/en/science-and-technology/20200527-france-coronavirus-stop-covid-mobile-phone-app-technology-controversy-law-vote-privacy-concerns-surveillance-human-rights?fbclid=IwAR0Du-qlhSOMOmYKP42OaFkVn0pB8QKR_GoMnDqeC0wNLE_mM718gz78RaU
+ - COVID APP 
+  - Cybersalon Europe - https://www.youtube.com/watch?v=PxbkIjZWzgg&fbclid=IwAR0sUIg174A0DX7tQpXNM9Jv5KtS3ghBPz8pq2k8NZ8TQCIh4XxYWLf7U58
+  - Wikipedia App comparison - https://en.wikipedia.org/wiki/COVID-19_apps
 
 
 ## Principles for OS Infrastructures
