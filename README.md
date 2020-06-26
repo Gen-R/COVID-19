@@ -47,3 +47,9 @@ In this theme we will look at examples where innovation has become actionable in
  - NL guidelines May 2020 - https://www.vsnu.nl/en_GB/news-items/nieuwsbericht/596-consultation-on-guiding-principles-on-management-of-research-information-and-data.html
  - SPARC NA - Good Practice Principles for Scholarly Communication Services, 2017? - https://sparcopen.org/our-work/good-practice-principles-for-scholarly-communication-services/
  
+## Reading on COVID and infrastructures
+
+ - LIBER keynote - https://gtsak.wordpress.com/2020/06/22/welcome-to-new-beginnings/
+ - LSE Blog - Thaney, Kaitlin. ‘The Open Scholarship Ecosystem Faces Collapse; It’s Also Our Best Hope for a More Resilient Future’. Impact of Social Sciences (blog), 19 June 2020. https://blogs.lse.ac.uk/impactofsocialsciences/2020/06/19/the-open-scholarship-ecosystem-faces-collapse-its-also-our-best-hope-for-a-more-resilient-future/.
+ 
+ 
