@@ -51,6 +51,11 @@ In this theme we will look at examples where innovation has become actionable in
 
  - LIBER keynote - https://gtsak.wordpress.com/2020/06/22/welcome-to-new-beginnings/
  - LSE Blog - Thaney, Kaitlin. ‘The Open Scholarship Ecosystem Faces Collapse; It’s Also Our Best Hope for a More Resilient Future’. Impact of Social Sciences (blog), 19 June 2020. https://blogs.lse.ac.uk/impactofsocialsciences/2020/06/19/the-open-scholarship-ecosystem-faces-collapse-its-also-our-best-hope-for-a-more-resilient-future/.
+ - April 6, 2020 - Spark Europe https://sparceurope.org/covid-19-and-open-science/ and https://sparceurope.org/coronaopensciencereadsandusecases/ 
+ 
+## Funder programmes
+
+- EOSC https://www.eoscsecretariat.eu/funding-opportunities/COVID-19-Fast-Track-Funding
  
 ## What science systems are relevant to C-19
 
