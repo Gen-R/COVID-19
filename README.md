@@ -66,4 +66,6 @@ In this theme we will look at examples where innovation has become actionable in
  - In Public Health
  - In NGO and Government agency reports to public having full open and tranparent science sources
  - In public consultation and policy buy in
+ - Science communications
+ - Citizen Science
  
