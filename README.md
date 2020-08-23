@@ -69,3 +69,11 @@ In this theme we will look at examples where innovation has become actionable in
  - Science communications
  - Citizen Science
  
+## Open Science Saves Lives: Lessons from the COVID-19 Pandemic
+
+Paper: https://www.biorxiv.org/content/10.1101/2020.08.13.249847v1.full
+
+Signup: https://docs.google.com/forms/d/e/1FAIpQLSea5_V1ivlJdK0aQPKyKLTRZopGv_XTD_PWcZu0HdJQETR4ug/viewform
+
+Pubpeer: https://pubpeer.com/static/about
+
