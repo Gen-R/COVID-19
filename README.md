@@ -20,6 +20,14 @@ New demands, increased public scrutiny of science, and an accelerated change are
 
 In this theme we will look at examples where innovation has become actionable in system provision, in such as examples as: the reproducibility spectrum, OER and online learning, Open Science skilling, collaborative working on research, global access to knowledge, lowering access barriers, Responsible Research and Innovation (RRI), open peer review, computational publishing, modelling, or new open metrics and evaluation.
 
+## Open Science Systems and Contact Tracing for COVID-19: A Consultation and Mapping
+
+Blogpost: https://genr.eu/wp/open-science-systems-and-contact-tracing-for-covid-19-a-consultation-and-mapping/
+
+Question: What are the Open Science needs in Contact Tracing and what system providers do people use:
+
+See CodiMD scratchpad for suggestions: https://demo.codimd.org/BDzdeQDkStev-51d9Qjwuw
+
 ## Listing
 
  - Data Management Concept Note for General Public - https://zenodo.org/record/3819204 https://twitter.com/k_meesters/status/1260138953782497285?s=20
