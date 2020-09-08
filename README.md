@@ -28,6 +28,11 @@ Question: What are the Open Science needs in Contact Tracing and what system pro
 
 See CodiMD scratchpad for suggestions: https://demo.codimd.org/BDzdeQDkStev-51d9Qjwuw
 
+![](https://raw.githubusercontent.com/Gen-R/COVID-19-and-Innovating-Open-Science-Systems/master/track%20and%20tracing.png) 
+
+Map: https://app.diagrams.net/?page-id=ad52d381-51e7-2e0d-a935-2d0ddd2fd229&scale=auto#G1tGRW5keejuVP-jEYxmhW3aOgsdisoIyh
+
+
 ## Listing
 
  - Data Management Concept Note for General Public - https://zenodo.org/record/3819204 https://twitter.com/k_meesters/status/1260138953782497285?s=20
