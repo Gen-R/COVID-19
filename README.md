@@ -32,6 +32,10 @@ See CodiMD scratchpad for suggestions: https://demo.codimd.org/BDzdeQDkStev-51d9
 
 Map: https://app.diagrams.net/?page-id=ad52d381-51e7-2e0d-a935-2d0ddd2fd229&scale=auto#G1tGRW5keejuVP-jEYxmhW3aOgsdisoIyh
 
+Notes:
+
+https://jrost.org/blog
+
 
 ## Listing
 
